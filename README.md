@@ -2,7 +2,7 @@
 
 This repository contains the Python and R scripts used to perform the benchmarking analysis, run deconvolution tools, process data, and generate visualizations for the study: "Comprehensive Benchmark on Spatial Transcriptomic Deconvolution Methods: SpatialDWLS, CARD, and Cell2Location".
 
-![Project](img/Benchmark_overview.pdf)
+![Project](img/pipeline.png)
 
 **Data Repository:** [https://github.com/AnonymityICAuser/CMML3_ICA2_data](https://github.com/AnonymityICAuser/CMML3_ICA2_data)
 
