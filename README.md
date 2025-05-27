@@ -2,7 +2,8 @@
 
 This repository contains the Python and R scripts used to perform the benchmarking analysis, run deconvolution tools, process data, and generate visualizations for the study: "Comprehensive Benchmark on Spatial Transcriptomic Deconvolution Methods: SpatialDWLS, CARD, and Cell2Location".
 
-**Paper:** [Link to Published Paper - To be added upon publication]
+![Project](img/Benchmark_overview.pdf)
+
 **Data Repository:** [https://github.com/AnonymityICAuser/CMML3_ICA2_data](https://github.com/AnonymityICAuser/CMML3_ICA2_data)
 
 ## Overview
@@ -19,7 +20,7 @@ The scripts in this repository facilitate:
 
 ## Repository Structure
 
-
+```
 /
 ├── Evaluation& Visualization/ # Scripts for evaluating results and generating plots
 │ ├── bechmark_script_real.py
@@ -39,6 +40,7 @@ The scripts in this repository facilitate:
 │ ├── Benchmark_overview.pdf
 │ └── Version_figure.png
 └── run_deconvolution_real.bash # Example Bash script for batch job submission
+```
 
 ---
 
@@ -47,7 +49,6 @@ The scripts in this repository facilitate:
 ### 1. Software
 *   **Python:** Version 3.9.21 (as used in the study).
 *   **R:** Version 4.4.3 (as used in the study).
-*   **Conda:** Recommended for managing Python and R environments.
 
 (See `img/Version_figure.png` below or Supplementary Figure S3 of the paper for a detailed list of package versions.)
 
