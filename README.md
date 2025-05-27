@@ -62,17 +62,17 @@ We recommend creating Conda environments to manage dependencies. The `run_deconv
 You could check the documents for Cell2Location, CARD, and Giotto (SpatialDWLS API) 
 
 For Cell2location:
-![https://cell2location.readthedocs.io/en/latest/index.html][https://cell2location.readthedocs.io/en/latest/index.html]
+https://cell2location.readthedocs.io/en/latest/index.html
 
 
 For CARD:
-![github.com/YMa-lab/CARD/][github.com/YMa-lab/CARD/]
+github.com/YMa-lab/CARD/
 
 For Giotto:
-![https://drieslab.github.io/Giotto_website/][https://drieslab.github.io/Giotto_website/]
+https://drieslab.github.io/Giotto_website/
 
 And SpatialDWLS API:
-![https://drieslab.github.io/Giotto_website/articles/deconvolution.html][https://drieslab.github.io/Giotto_website/articles/deconvolution.html]
+https://drieslab.github.io/Giotto_website/articles/deconvolution.html
 
 ## 3. Data
 
